@@ -1,0 +1,6 @@
+{
+  "numbers_file": "numbers.txt",
+  "log_level": "INFO",
+  "save_results_to_folder": "results",
+  "save_number_with_carrier_format": true
+}

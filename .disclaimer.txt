@@ -1,0 +1,26 @@
+Disclaimer for Tools
+
+IMPORTANT: PLEASE READ THIS DISCLAIMER CAREFULLY BEFORE USING ANY OF THE TOOLS OR SCRIPTS PROVIDED BY THE DEVELOPER.
+
+By using any of the provided tools or scripts (hereinafter referred to as "the Software"), you agree to the terms of this Disclaimer.
+
+PURPOSE OF THE SOFTWARE: The Software is provided for educational, experimental, research, and legitimate purposes only. It is designed to demonstrate technical concepts and assist in lawful activities with proper consent.
+
+NO WARRANTY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+USER RESPONSIBILITY: You, the user, are solely responsible for your use of the Software and any consequences arising from such use. This includes, but is not limited to:
+
+- Complying with all applicable laws, regulations, and industry standards related to your use of the Software, including but not limited to data privacy, electronic communications, and unsolicited messaging.
+- Obtaining and maintaining explicit consent from all recipients or affected parties before sending any communications or performing any actions.
+- Ensuring the accuracy and legality of the content or actions performed using the Software.
+- Adhering to the terms of service and acceptable use policies of any third-party services, providers, or platforms you interact with.
+- Protecting your own credentials, data, and systems.
+
+HWID AUTHORIZATION: Some Software may incorporate a Hardware ID (HWID) authorization mechanism. You acknowledge that this feature is in place to manage access to the Software and that unauthorized use may be prevented.
+
+INDEMNIFICATION: By using the Software, you agree to indemnify, defend, and hold harmless the developer (Brain Lead) from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from your misuse of the Software or your breach of this Disclaimer.
+
+By proceeding to use any of the Software, you indicate that you have read, understood, and agreed to this Disclaimer.
+
+Developer: Brain Lead
+Telegram: https://t.me/Brain_lead
